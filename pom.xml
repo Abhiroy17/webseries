@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.webseries</groupId>
-	<artifactId>WebSeriesApi</artifactId>
+	<artifactId>application</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
-	<name>WebSeriesApi</name>
+	<name>application</name>
 	<description>Virtusa Spring Boot Practice Test on Web Series</description>
 	<properties>
 		<java.version>11</java.version>
